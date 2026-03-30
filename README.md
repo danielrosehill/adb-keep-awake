@@ -1,5 +1,7 @@
 # ADB Keep Awake
 
+**Part of the [Patches Index](https://github.com/danielrosehill/Patches-Repos-Index).**
+
 Simple scripts to prevent Android phones from sleeping while connected via USB, which can cause ADB to stop working.
 
 ## The Problem
